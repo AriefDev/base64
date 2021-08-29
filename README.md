@@ -1,6 +1,6 @@
-# base64
+#base64
 Tools  : encryptor base64 untuk python
-Pungsi : untuk mengamankan script python agar tidak di curi oleh orang lain/di recode
+Pungsi : untuk mengunci script python agar tidak di curi oleh orang lain/di recode
 --------------------------------------------------------------------------------------
 Autor  : M.Luqman.Arief
 Team   : X-Garuda_Red
